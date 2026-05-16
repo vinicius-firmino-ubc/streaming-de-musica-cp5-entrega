@@ -111,7 +111,7 @@ java -cp out br.com.streaming.principal.StreamingMusica
 
 ## 👤 Autor
 
-- **Nome:** Alexsandro Vasconcelos  
+- **Nome:** Vinicius Firmino Souto
 - **RA:** [seu RA aqui]
 
 ---
